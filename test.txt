@@ -17,3 +17,5 @@ aimez-vous les bananes?
  Tu as une banane dans l'oreille?
 Bruno
 Salut Bruno! Bienvenue!
+Bienvenue aux nouveaux !
+Écrivez sur discord le nombre de banane consommée aujourd'hui.
