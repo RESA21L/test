@@ -7,4 +7,4 @@ answer = random.choice(choices)
 print("Est-ce que Ben corrigera les examens aujourdhui?")
 time.sleep(5)
 
-print(choices[0])
+print(answer)
